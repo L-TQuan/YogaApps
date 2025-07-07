@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296372468188",
+    "project_id": "yoga-admin-ea96f",
+    "storage_bucket": "yoga-admin-ea96f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296372468188:android:cbde5bd6e875b72d703719",
+        "android_client_info": {
+          "package_name": "com.example.yogaadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqH2v_OptQbJgFKw4Rb1PDD9PD6ZVviBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

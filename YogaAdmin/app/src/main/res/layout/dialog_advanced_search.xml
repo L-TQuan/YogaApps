@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Input for Day of the Week -->
+    <Spinner
+        android:id="@+id/dayOfWeekSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/SelectDayOfWeek" />
+
+    <!-- Input for Yoga Class Date -->
+    <EditText
+        android:id="@+id/classDateEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Date (yyyy-MM-dd)"
+        android:inputType="date" />
+
+    <!-- Search Button -->
+    <Button
+        android:id="@+id/applySearchButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apply Search" />
+</LinearLayout>

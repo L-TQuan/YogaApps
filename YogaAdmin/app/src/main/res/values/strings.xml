@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">YogaAdmin</string>
+    <string-array name="DayOfWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="SelectDayOfWeek">
+        <item>Select Day</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="ClassType">
+        <item>Flow Yoga</item>
+        <item>Aerial Yoga</item>
+        <item>Family Yoga</item>
+    </string-array>
+    <string name="course_name">Name: %1$s</string>
+    <string name="course_type">Type: %1$s</string>
+    <string name="course_day">Day: %1$s</string>
+    <string name="course_time">Time: %1$s</string>
+    <string name="course_capacity">Capacity: %1$d</string>
+    <string name="course_duration">Duration: %1$d min</string>
+    <string name="course_price">Price: £%1$.2f</string>
+    <string name="course_description">Description: %1$s</string>
+    <string name="course_synced">Firebase: %1$s</string>
+
+    <string name="yoga_class_date">Date: %1$s</string>
+    <string name="yoga_class_teacher">Teacher: %1$s</string>
+    <string name="yoga_class_comment">Comment: %1$s</string>
+    <string name="yoga_class_course_name">Course: %1$s</string>
+</resources>

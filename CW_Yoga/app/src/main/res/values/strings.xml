@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CW_Yoga</string>
+    <string-array name="DayOfWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="Duration">
+        <item>min</item>
+        <item>h</item>
+    </string-array>
+    <string-array name="ClassType">
+        <item>Flow Yoga</item>
+        <item>Aerial Yoga</item>
+        <item>Family Yoga</item>
+    </string-array>
+</resources>
