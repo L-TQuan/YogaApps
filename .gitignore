@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Google Credentials / Secrets
+*admin-sdk.json
+*.json
+
+# .NET Build Output Folders
+bin/
+obj/
