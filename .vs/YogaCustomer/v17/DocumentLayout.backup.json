@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|c:\\users\\tquan\\source\\repos\\yogacustomer\\yogacustomer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|solutionrelative:yogacustomer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|c:\\users\\tquan\\source\\repos\\yogacustomer\\yogacustomer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|solutionrelative:yogacustomer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|c:\\users\\tquan\\source\\repos\\yogacustomer\\yogacustomer\\services\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|solutionrelative:yogacustomer\\services\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|c:\\users\\tquan\\source\\repos\\yogacustomer\\yogacustomer\\models\\yogaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|solutionrelative:yogacustomer\\models\\yogaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|c:\\users\\tquan\\source\\repos\\yogacustomer\\yogacustomer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|solutionrelative:yogacustomer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|c:\\users\\tquan\\source\\repos\\yogacustomer\\yogacustomer\\resources\\raw\\admin-sdk.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B568ABD3-DDA5-48C8-8F68-3BB571AC82C5}|YogaCustomer\\YogaCustomer.csproj|solutionrelative:yogacustomer\\resources\\raw\\admin-sdk.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin-sdk.json",
+              "DocumentMoniker": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\Resources\\Raw\\admin-sdk.json",
+              "RelativeDocumentMoniker": "YogaCustomer\\Resources\\Raw\\admin-sdk.json",
+              "ToolTip": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\Resources\\Raw\\admin-sdk.json",
+              "RelativeToolTip": "YogaCustomer\\Resources\\Raw\\admin-sdk.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T16:03:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "YogaCustomer\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\MauiProgram.cs",
+              "RelativeToolTip": "YogaCustomer\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:24:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\MainPage.xaml",
+              "RelativeDocumentMoniker": "YogaCustomer\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\MainPage.xaml",
+              "RelativeToolTip": "YogaCustomer\\MainPage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T06:54:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "YogaCustomer\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\MainPage.xaml.cs",
+              "RelativeToolTip": "YogaCustomer\\MainPage.xaml.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAADsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:54:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirestoreService.cs",
+              "DocumentMoniker": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\Services\\FirestoreService.cs",
+              "RelativeDocumentMoniker": "YogaCustomer\\Services\\FirestoreService.cs",
+              "ToolTip": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\Services\\FirestoreService.cs",
+              "RelativeToolTip": "YogaCustomer\\Services\\FirestoreService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:53:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YogaClass.cs",
+              "DocumentMoniker": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\Models\\YogaClass.cs",
+              "RelativeDocumentMoniker": "YogaCustomer\\Models\\YogaClass.cs",
+              "ToolTip": "C:\\Users\\tquan\\source\\repos\\YogaCustomer\\YogaCustomer\\Models\\YogaClass.cs",
+              "RelativeToolTip": "YogaCustomer\\Models\\YogaClass.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:52:24.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
