@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="YogaCustomer.MainPage"
+             Title="Yoga Classes">
+
+    <StackLayout Padding="10">
+        <Label Text="Search by Date (yyyy-mm-dd):" />
+        <Entry x:Name="DateEntry" Placeholder="Enter date" />
+
+        <Label Text="Search by Day of Week:" />
+        <Picker x:Name="DayPicker" 
+                Title="Select Day">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Sunday</x:String>
+                    <x:String>Monday</x:String>
+                    <x:String>Tuesday</x:String>
+                    <x:String>Wednesday</x:String>
+                    <x:String>Thursday</x:String>
+                    <x:String>Friday</x:String>
+                    <x:String>Saturday</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Label Text="Search by Time (HH:mm):" />
+        <TimePicker x:Name="TimePicker"/>
+
+        <StackLayout Orientation="Horizontal" Spacing="10">
+            <Button Text="Cancel Selection" Clicked="OnCancelSelectionClicked" />
+            <Button Text="Search" Clicked="OnSearchClicked" />
+        </StackLayout>
+
+        <Label Text="Yoga Classes" />
+        <ListView x:Name="YogaClassListView" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10" Orientation="Vertical">
+                            <Label Text="{Binding Date}" FontAttributes="Bold" />
+                            <Label Text="{Binding Teacher, StringFormat='Teacher: {0:C}'}" />
+                            <Label Text="{Binding CourseName, StringFormat='Course: {0:C}'}" />
+                            <Label Text="{Binding Price, StringFormat='Price: {0:C}'}" />
+                            <Label Text="{Binding Time, StringFormat='Time: {0:C}'}" />
+                            <Label Text="{Binding Comments}" LineBreakMode="WordWrap" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
